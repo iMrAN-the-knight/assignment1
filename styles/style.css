@@ -47,16 +47,22 @@ background-color: white;
     }
 
 /* Banner */
+.banner{
+    margin:300px 160px;
+}
 .banner-container{
 background-color: #C6E4D6;
 border-radius: 24px;
 padding: 80px 100px;
-margin:300px 160px;
+
+display: flex;
+    align-items: center;
+    gap: 64px;
 }
-.banner-text{
+/* .banner-text{
 display: flex;
 gap: 64px;
-}
+} */
 .banner-headtitle{
    font-size: 24px; 
    font-weight: 300px;
@@ -68,9 +74,11 @@ gap: 64px;
    font-weight: bold;
    color: #0E0E0E;
    padding-top: 16px;
+   padding-bottom: 35px;
+   margin-right: 15px;
 }
 .banner-flag{
 width: 480px;
 height: 400px;
-padding-bottom: 100px;
+padding: 100px;
 }
