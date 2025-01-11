@@ -53,7 +53,9 @@ background-color: white;
 
 /* Banner */
 .banner{
-    margin:300px 160px;
+    padding: 80px 100px 80px 100px;
+    margin:auto;
+    margin-bottom: 80px;
 }
 .banner-container{
 background-color: #C6E4D6;
@@ -493,6 +495,10 @@ margin-bottom: 45px;
     margin-bottom: 25px;
    
    }
+   /* .donate-buttons:hover {
+    color: white;
+    background-color: green;
+} */
    .donate-buttonx{
  background-color: #FFFFFF;
  width: 240px;
@@ -614,4 +620,39 @@ line-height: 19px;
 letter-spacing: 0%;
 text-align: center;
 margin-top: 25px;
+}
+/* footer */
+.footer{
+    margin-top: 50px;
+    width: 1600px;
+height: 226px;
+background-color: rgb(255, 255, 255);
+padding: 50px 160px 50px 160px;
+margin-bottom: 50px;
+display: inline-block;
+
+}
+.footer-title{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+text-align: center;
+margin-bottom: 33px;
+}
+hr{
+    border: none;
+            border-top: 1px solid rgba(14, 14, 14, 0.1);
+            width: 1172px;
+            margin: 10px auto;
+
+}
+.footer-img{
+   text-align: center;
+margin-bottom: 50px;
+margin-top: 32px;
+
 }
