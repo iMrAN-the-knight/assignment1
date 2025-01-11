@@ -220,4 +220,59 @@ border-radius: 8px;
     border: none;
 }
 
+   /* Dr Yunus */
+   .yunus{
+    width: 1600px;
+    height: 260px;
+    background-color:rgba(255, 255, 255, 1);
+border-radius: 16px;
+border: 1px rgba(14, 14, 14, 0.15) solid;
+/* padding-top: 80px;
+padding-left: 160px;
+padding-right: 160px;  */
+margin-top: 33px;
+margin-left: 160px;
+
+
+   }
+   .quote{
    
+     padding: 25px 24px 48px 24px; 
+display: flex;
+align-items: flex-start;
+ background-image: url('../quote-bg.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+   background-position-x: 24px;
+   background-position-y: 10px;
+    
+   }
+   /* .quote-con{
+
+   } */
+   .quote-context{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    letter-spacing: 50%;
+  text-align: start;
+ padding-top: 10px;
+   
+
+   }
+   .quote-name{
+    font-size: 20px;
+    font-weight:600;
+    margin-top: 12px;
+    margin-bottom: 24px;
+    color:rgba(14, 14, 14, 0.8);
+   }
+   .quote-title{
+    font-size: 16px;
+    font-weight: 200px;
+    
+    margin-bottom: 45px;
+    color:rgba(14, 14, 14, 0.6);
+   }
