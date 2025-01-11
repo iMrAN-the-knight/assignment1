@@ -453,3 +453,91 @@ margin-bottom: 45px;
    .recentnews-con3{
 
    }
+   /* Donate */
+   .donate{
+    text-align: center;
+    margin-top: 80px;
+   }
+.donate-title{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 25px;
+}
+
+.donate-desc{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 33px;
+}
+
+
+
+
+
+   .donate-buttons{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    align-items: flex-start;
+    margin-bottom: 25px;
+   
+   }
+   .donate-buttonx{
+ background-color: #FFFFFF;
+ width: 240px;
+height: 125px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+   }
+   .donate-buttony{
+    width: 252px;
+height: 128px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(198, 228, 214);
+   }
+   .donate-buttona{
+    width: 1032px;
+height: 64px;
+color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+border:1px solid rgba(14, 14, 14, 0.15);
+   }
+   .btndnt{
+    width: 180px;
+height: 56px;
+border: 1px solid rgba(14, 14, 14, 0.1);
+border-radius: 8px;
+background: rgb(0, 106, 80);
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+margin-bottom: 80px;
+
+   }
